@@ -1,5 +1,7 @@
 # Automated-Machine-Learning
 
+v1.0
+
 This project deals with only supervised learning problems. This project automatically do the job of a data scientist 
 upto developing of a models.This project is designed on basis of different type of datasets.
 
